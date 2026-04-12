@@ -1,1 +1,1 @@
-# CNN-Architecture-Transfer-Study
+# CNN Architecture Transfer Study
