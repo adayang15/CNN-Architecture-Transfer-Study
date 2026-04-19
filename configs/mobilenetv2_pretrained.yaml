@@ -1,0 +1,6 @@
+experiment_name: "mobilenetv2_pretrained"
+strategy:
+  architecture: "mobilenetv2"
+  learning_rate: 0.001
+  pretrained: true
+  cutmix: false

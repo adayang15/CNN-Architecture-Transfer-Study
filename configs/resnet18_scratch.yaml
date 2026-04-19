@@ -1,0 +1,6 @@
+experiment_name: "resnet18_scratch"
+strategy:
+  architecture: "resnet18"
+  learning_rate: 0.01
+  pretrained: false
+  cutmix: false

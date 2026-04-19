@@ -1,0 +1,7 @@
+experiment_name: "resnet18_pretrained_cutmix"
+strategy:
+  architecture: "resnet18"
+  learning_rate: 0.001
+  pretrained: true
+  cutmix: true
+  cutmix_alpha: 1.0

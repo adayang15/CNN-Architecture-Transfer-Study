@@ -1,0 +1,15 @@
+data:
+  dataset: "CIFAR-100"
+  img_size: 224
+  num_classes: 100
+
+training:
+  batch_size: 128
+  num_epochs: 50
+  weight_decay: 5.0e-4
+  momentum: 0.9
+  seed: 42
+
+output:
+  results_dir: "results"
+  figures_dir: "figures"
