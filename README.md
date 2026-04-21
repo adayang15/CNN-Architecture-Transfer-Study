@@ -1,4 +1,4 @@
-# CNN-Architecture-Transfer-Study
+# CNN Architecture Transfer Study
 
 Empirical comparison of five CNN configurations on the CIFAR-100 100-class image classification benchmark. The study examines the effect of architecture choice, ImageNet pretraining versus training from scratch, and CutMix data augmentation, evaluating each configuration in terms of top-1 accuracy, trainable parameter count, model size, and inference latency.
 
